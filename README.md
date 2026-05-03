@@ -124,7 +124,7 @@ That's it!!
 
 ## Support
 
-If mailboy saves you time → [UPI](srilaxmi84@ybl)
+If mailboy saves you time → UPI : srilaxmi84@ybl
 
 ---
 
