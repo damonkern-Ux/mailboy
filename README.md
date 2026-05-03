@@ -31,7 +31,7 @@ mailboy/
 ## Install
 
 ```bash
-git clone https://github.com/yourname/mailboy
+[git clone https://github.com/yourname/mailboy](https://github.com/damonkern-Ux/mailboy.git)
 cd mailboy
 pip install requests
 ```
